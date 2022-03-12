@@ -1,11 +1,12 @@
 
- h1{
+			h1{
                 font-size: 60px;
                 background-color: blue;
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
                 color: white;
 				text-align: center;
             }
+			
             h2{
                 font-family: arial;
                 font-style:oblique;
@@ -13,13 +14,28 @@
                 color:purple;
 				text-align: center;
             }
+			div{
+				color: blue;
+			}
             h3{
                 font-style: italic;
                 font-variant: small-caps;
                 font-size: 30px;
-                color: blue;
+                color: red;
 				text-align: center;
             }
+			div{
+				color: blue;
+				font-weight: border-bottom-color;
+			}
+				 h3{
+                font-style: italic;
+                font-variant: small-caps;
+                font-size: 30px;
+                color: blue;
+				text-align: left;
+			}
+				 
             html{
                 background-color:#E3EAEA;
             }
