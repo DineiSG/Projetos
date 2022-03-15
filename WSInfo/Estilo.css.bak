@@ -7,6 +7,11 @@
 				text-align: center;
             }
 			
+			hr{
+				color: black;
+			}
+			div{
+				}
             h2{
                 font-family: arial;
                 font-style:oblique;
@@ -21,21 +26,44 @@
                 font-style: italic;
                 font-variant: small-caps;
                 font-size: 30px;
-                color: red;
 				text-align: center;
             }
-			div{
-				color: blue;
-				font-weight: border-bottom-color
+			p{
+				font-weight: bold;
+				font-size: 20px;
+				color: black;
 			}
-				 h3{
+			
+			div{
+				margin: 20px auto;
+			
+			
+            h4{
                 font-style: italic;
                 font-variant: small-caps;
                 font-size: 30px;
-                color: blue;
 				text-align: left;
-			}
-				 
-            html{
-                background-color:#E3EAEA;
+				color: black;
+				font-weight: bold;
+				text-decoration: underline;
             }
+			p{
+				font-weight: bold;
+				font-size: 20px;
+				color: black;
+			}
+			}
+			
+			div{
+				
+			}
+			h5{
+                font-style: italic;
+                font-variant: small-caps;
+                font-size: 30px;
+				text-align: left;
+				color: black;
+				font-weight: bold;
+				text-decoration: underline;
+			}
+         
