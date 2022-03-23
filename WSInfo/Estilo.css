@@ -1,86 +1,65 @@
 
-			h1{
-                font-size: 60px;
-                background-color: blue;
-                font-family: Verdana, Geneva, Tahoma, sans-serif;
-                color: white;
-				text-align: center;
-				line-height: 50px;
-            }
 			
-			hr{
-				color: black;
+			#menu-h ul{
+				padding: auto;
+				background-color: rgb(0, 0, 0);
+				color: white;
+				font-family: Verdana;
+				font-size: 15px;
+				max-width: 100%;
+				text-align:center;
+				border-style: solid;
+				border-color: white;
+		
+
 			}
-			div{
-				}
-            h2{
-                font-family: arial;
-                font-style:oblique;
-                font-variant: small-caps;
-                color:purple;
-				text-align: center;
-				text-decoration: underline;
-            }
-			div{
-				color: blue;
+			#menu-h ul li{
+				display: inline;
+				padding: 35px;		
 				
-			}
-            h3{
-                font-style: italic;
-                font-size: 30px;
-				font-weight: bold;
-				text-align: center;
-            }
-			p{
-				font-weight: bold;
-				font-size: 20px;
-				color: black;
-			}
-			
-			div{
-				margin: 20px auto;
-			}
-			
-            h4{
-                font-style: italic;
-                font-variant: small-caps;
-                font-size: 30px;
-				text-align: left;
-				color: black;
-				font-weight: bold;
-				text-decoration: underline;
-            }
-			p{
-				font-weight: bold;
-				font-size: 20px;
-				color: black;
-			}
-			}
-			
-			div{
-				
-			}
-			h5{
-                font-style: italic;
-                font-variant: small-caps;
-                font-size: 30px;
-				text-align: left;
-				color: black;
-				font-weight: bold;
-				text-decoration: underline;
-			}
-			div{
-				
-			}
-			h6{
-				font-style: italic;
-                font-variant: small-caps;
-                font-size: 30px;
-				text-align: left;
-				color: black;
-				font-weight: bold;
-				text-decoration: underline;
 			}
 
-			
-         
+			#menu-h ul li a{
+				color: white;
+				display:inline-flex;
+				padding: 20px;
+				text-decoration: none;
+		
+
+			}
+
+			#menu-h ul li a:hover{
+				color: rgb(6, 99, 238);
+			}
+			.div1{
+				font-family:Arial;
+				text-align:center;
+				font-weight:bold;
+				text-decoration: underline;
+				font-size: 30px;
+			}
+			.div2{
+				text-align: center;
+				font-family:Arial;
+				font-size: 12px;
+				background-color:blue;
+				color: white;
+				border-radius: 15px;
+				margin:15px auto;
+				padding-top: 5px;
+				padding-bottom: 5px;
+			}
+			.div3{
+				text-align: center;
+				font-weight: bold;
+				font-size: large;
+				font-family:Calibri;
+				Border: 5px solid grey;
+				border-radius:15px;
+				margin: auto 200px;
+				margin-top: 40px;
+				background-color: white;
+			}
+			body{
+				background-color: #76b5c5;
+			}
