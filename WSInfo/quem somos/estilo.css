@@ -1,0 +1,42 @@
+#menu-h ul{
+    padding: auto;
+    background-color: rgb(0, 0, 0);
+    color:black;
+    font-family:'Play';
+    font-size: 18px;
+    max-width: 100%;
+    text-align:center;
+    border-style: solid;
+}
+#menu-h ul li{
+    display: inline;
+    padding: 35px;		
+}
+
+#menu-h ul li a{
+    color: white;
+    display:inline-flex;
+    padding: 20px;
+    text-decoration: none;
+}
+
+#menu-h ul li a:hover{
+    color: rgb(6, 99, 238);
+}
+.div1{
+    text-align: justify;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Play';
+    Border: 5px solid black;
+    margin: auto 200px;
+    margin-top: 40px;
+    background-color: white;
+    padding: 12px; 
+}
+.div3{
+    margin:100px;
+}
+body{
+    background-color: #063970;
+}
