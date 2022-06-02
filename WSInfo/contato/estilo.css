@@ -26,6 +26,16 @@
 #menu-h ul li a:hover{
     color: rgb(6, 99, 238);
 }
+.contatos{
+    background-color: white;
+    color:#122145;
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    margin-bottom: 5em;
+    text-decoration: none;
+
+}
 body{
     background-color: #0b71df;
     background-image: url('E:/Documentos/GitHub/Projetos/WSInfo/imagens/Circuito.jpg');
@@ -33,4 +43,10 @@ body{
 	background-position: center;
 	background-size: 100% 40%;
 	background-attachment: fixed;
+}
+footer{
+    background-color:white;
+    text-align:center;
+    font-style: italic;
+    color: #122145;
 }
