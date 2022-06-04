@@ -24,14 +24,6 @@
 #menu-h ul li a:hover{
     color: rgb(6, 99, 238);
 }
-.img{
-    opacity: 0.8;
-}
-
-.RedesSociais {
-    display:inline-flex;
-}
-
 body{
     background-color: #0b71df;
     background-image: url('E:/Documentos/GitHub/Projetos/WSInfo/imagens/Circuito.jpg');
@@ -39,15 +31,12 @@ body{
     background-position: center;
     background-size: 100% 40%;
     background-attachment: fixed;
-    
 }
-
 .tabela{
     background-color:white ;
     opacity: 0.8;
     color:rgb(12, 2, 145);
     margin-top: 20px;
-    margin-bottom: 20px;
     padding-top: 20px;
     padding-bottom: 50px;
     padding-left:250px
@@ -76,11 +65,14 @@ th{
     font-size: 20px;
     
 }
-.um{
-    padding:5px;
-    border-style: solid red; 
-}
-
 span{
     font-weight: bold;
+}
+footer{
+    background-color:white;
+    text-align:center;
+    font-style: italic;
+    color: #122145;
+    opacity: 0.8;
+    padding-top: 5em;
 }
